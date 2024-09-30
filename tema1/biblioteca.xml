@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+<libro>
+    <titulo>Cien años de soledad</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <editorial>SM</editorial>
+    <paginas>210</paginas>
+    <genero>novela</genero>
+</libro>
+<libro>
+    <titulo>El quijote</titulo>
+    <autor>Miguel de Cervantes Saavedra</autor>
+    <editorial>SM</editorial>
+    <paginas>590</paginas>
+    <genero>novela</genero>
+</libro>
+</biblioteca> 
